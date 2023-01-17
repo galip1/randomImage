@@ -27,7 +27,7 @@ const RandomImage = () => {
           bulk of the card's content.
         </Card.Text>
         <Button variant="primary" onClick={change}>
-          Renk Değiştir
+          Change color
         </Button>
       </Card.Body>
     </Card>
